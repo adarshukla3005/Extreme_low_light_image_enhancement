@@ -8,5 +8,5 @@ How To Use:
 Clone the repository:
 https://github.com/adarshukla3005/Extreme_low_light_image_enhancement_ML/tree/main
 
-When your script is run, it should read the test images from './test/low/' and produce the corresponding outputs in './test/predicted/' . We will run python 'main.py' in the final submitted code.
+When this script will run, it will read the test images from './test/low/' and produce the corresponding outputs in './test/predicted/' . We should run python 'main.py' in the final submitted code.
 
