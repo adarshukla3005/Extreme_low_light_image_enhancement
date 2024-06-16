@@ -6,7 +6,7 @@ BM3D.py is an implementation based on my understanding of the method proposed by
 How To Use:
 
 Clone the repository:
-https://github.com/adarshukla3005/Extreme_low_light_image_enhancement_ML/tree/main
+[https://github.com/adarshukla3005/Extreme_low_light_image_enhancement_ML/tree/main](https://github.com/adarshukla3005/Extreme_low_light_image_enhancement/tree/main)
 
 When this script will run, it will read the test images from './test/low/' and produce the corresponding outputs in './test/predicted/' . We should run python 'main.py' in the final submitted code.
 
