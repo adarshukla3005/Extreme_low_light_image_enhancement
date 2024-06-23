@@ -6,7 +6,7 @@ BM3D.py is an implementation based on my understanding of the method proposed by
 ## How to Use 
 ### Clone the repository:
 ```
-git clone (https://github.com/adarshukla3005/Extreme_low_light_image_enhancement)
+https://github.com/adarshukla3005/Extreme_low_light_image_enhancement
 ```
 
 
